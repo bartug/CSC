@@ -1,0 +1,10 @@
+C:\Users\kirez\Desktop\mayın tarlası\nesne odev\nesne odev\bin\Debug\nesne odev.exe
+C:\Users\kirez\Desktop\mayın tarlası\nesne odev\nesne odev\bin\Debug\nesne odev.pdb
+C:\Users\kirez\Desktop\mayın tarlası\nesne odev\nesne odev\obj\Debug\nesne odev.csprojResolveAssemblyReference.cache
+C:\Users\kirez\Desktop\mayın tarlası\nesne odev\nesne odev\obj\Debug\nesne odev.exe
+C:\Users\kirez\Desktop\mayın tarlası\nesne odev\nesne odev\obj\Debug\nesne odev.pdb
+C:\Users\bartuğ\Desktop\nesne odev\nesne odev\bin\Debug\nesne odev.exe
+C:\Users\bartuğ\Desktop\nesne odev\nesne odev\bin\Debug\nesne odev.pdb
+C:\Users\bartuğ\Desktop\nesne odev\nesne odev\obj\Debug\nesne odev.csprojResolveAssemblyReference.cache
+C:\Users\bartuğ\Desktop\nesne odev\nesne odev\obj\Debug\nesne odev.exe
+C:\Users\bartuğ\Desktop\nesne odev\nesne odev\obj\Debug\nesne odev.pdb
