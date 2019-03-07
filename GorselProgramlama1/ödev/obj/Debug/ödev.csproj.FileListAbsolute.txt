@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\bin\Debug\ödev.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\bin\Debug\ödev.exe
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\bin\Debug\ödev.pdb
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\obj\Debug\ödev.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\obj\Debug\ödev.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\obj\Debug\ödev.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\obj\Debug\ödev.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\obj\Debug\ödev.exe
+c:\users\user\documents\visual studio 2015\Projects\ödev\ödev\obj\Debug\ödev.pdb
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\bin\Debug\ödev.exe.config
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.exe
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.pdb
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\bin\Debug\ödev.exe
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\bin\Debug\ödev.pdb
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.Form1.resources
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.Properties.Resources.resources
+C:\Users\User\Desktop\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.csproj.GenerateResource.Cache
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\bin\Debug\ödev.exe.config
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\bin\Debug\ödev.exe
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\bin\Debug\ödev.pdb
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.csprojResolveAssemblyReference.cache
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.Form1.resources
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.Properties.Resources.resources
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.csproj.GenerateResource.Cache
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.exe
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\2015280028_berkebartugsevindik\ödev\obj\Debug\ödev.pdb
