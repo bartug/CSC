@@ -1,0 +1,24 @@
+C:\Users\alper\Documents\Visual Studio 2013\Projects\ödev2\ödev2\obj\Debug\ödev2.csprojResolveAssemblyReference.cache
+C:\Users\alper\Documents\Visual Studio 2013\Projects\ödev2\ödev2\bin\ödev2.dll.config
+C:\Users\alper\Documents\Visual Studio 2013\Projects\ödev2\ödev2\bin\ödev2.dll
+C:\Users\alper\Documents\Visual Studio 2013\Projects\ödev2\ödev2\bin\ödev2.pdb
+C:\Users\alper\Documents\Visual Studio 2013\Projects\ödev2\ödev2\obj\Debug\ödev2.dll
+C:\Users\alper\Documents\Visual Studio 2013\Projects\ödev2\ödev2\obj\Debug\ödev2.pdb
+C:\Users\Lenovo\Desktop\ödev2\ödev2\bin\ödev2.dll.config
+C:\Users\Lenovo\Desktop\ödev2\ödev2\bin\ödev2.dll
+C:\Users\Lenovo\Desktop\ödev2\ödev2\bin\ödev2.pdb
+C:\Users\Lenovo\Desktop\ödev2\ödev2\obj\Debug\ödev2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ödev2\ödev2\obj\Debug\ödev2.dll
+C:\Users\Lenovo\Desktop\ödev2\ödev2\obj\Debug\ödev2.pdb
+C:\Users\Lenovo\Desktop\ödev2_2015280028_BerkeBartugSevindik\ödev2\bin\ödev2.dll.config
+C:\Users\Lenovo\Desktop\ödev2_2015280028_BerkeBartugSevindik\ödev2\bin\ödev2.dll
+C:\Users\Lenovo\Desktop\ödev2_2015280028_BerkeBartugSevindik\ödev2\bin\ödev2.pdb
+C:\Users\Lenovo\Desktop\ödev2_2015280028_BerkeBartugSevindik\ödev2\obj\Debug\ödev2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ödev2_2015280028_BerkeBartugSevindik\ödev2\obj\Debug\ödev2.dll
+C:\Users\Lenovo\Desktop\ödev2_2015280028_BerkeBartugSevindik\ödev2\obj\Debug\ödev2.pdb
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\ödev2_2015280028_BerkeBartugSevindik\ödev2\bin\ödev2.dll.config
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\ödev2_2015280028_BerkeBartugSevindik\ödev2\bin\ödev2.dll
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\ödev2_2015280028_BerkeBartugSevindik\ödev2\bin\ödev2.pdb
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\ödev2_2015280028_BerkeBartugSevindik\ödev2\obj\Debug\ödev2.csprojResolveAssemblyReference.cache
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\ödev2_2015280028_BerkeBartugSevindik\ödev2\obj\Debug\ödev2.dll
+F:\Bilgisayar Bilimleri Deu\2.sınıf\Görsel programlama c#\ödevler\ödev2_2015280028_BerkeBartugSevindik\ödev2\obj\Debug\ödev2.pdb
